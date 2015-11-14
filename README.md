@@ -7,6 +7,10 @@ A curated list of [R](https://www.r-project.org/) API wrappers. Inspired by [Lis
 - [Rfacebook](https://github.com/pablobarbera/Rfacebook)
 - [fbRads](https://github.com/cardcorp/fbRads) - package for [Marketing API](https://developers.facebook.com/docs/marketing-apis)
 
+### [GitHub](http://github.com) - Online project hosting
+- [API Documentation](https://developer.github.com/v3/)
+- [rgithub](https://github.com/cscheid/rgithub)
+
 ### [Twitter](http://twitter.com/) - Online microblogging service
 - [API Documentation](https://dev.twitter.com/docs/twitter-libraries)
 - [twitteR](https://github.com/geoffjentry/twitteR)

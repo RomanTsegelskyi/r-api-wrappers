@@ -11,6 +11,10 @@ A curated list of [R](https://www.r-project.org/) API wrappers. Inspired by [Lis
 - [API Documentation](https://developer.github.com/v3/)
 - [rgithub](https://github.com/cscheid/rgithub)
 
+### [Gmail](https://mail.google.com) - Google Mail
+- [API Documentation](https://developers.google.com/gmail/api/?hl=en)
+- **gmailr** [[CRAN](https://cran.r-project.org/web/packages/gmailr/index.html)] [[GitHub](https://github.com/jimhester/gmailr)]
+
 ### [Twitter](http://twitter.com/) - Online microblogging service
 - [API Documentation](https://dev.twitter.com/docs/twitter-libraries)
 - [twitteR](https://github.com/geoffjentry/twitteR)

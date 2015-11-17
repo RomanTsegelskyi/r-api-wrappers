@@ -15,7 +15,14 @@ A curated list of [R](https://www.r-project.org/) API wrappers. Inspired by [Lis
 - [API Documentation](https://developers.google.com/gmail/api/?hl=en)
 - **gmailr** [[CRAN](https://cran.r-project.org/web/packages/gmailr/index.html)] [[GitHub](https://github.com/jimhester/gmailr)]
 
+### [Slack](http://slack.com/) - Team Communication Platform
+- [API Documentation](https://api.slack.com/)
+- **slackr** [[CRAN](https://cran.r-project.org/web/packages/slackr)] [[GitHub](https://github.com/hrbrmstr/slackr)]
+
 ### [Twitter](http://twitter.com/) - Online microblogging service
 - [API Documentation](https://dev.twitter.com/docs/twitter-libraries)
 - **twitteR** [[CRAN](https://cran.r-project.org/web/packages/twitteR)] [[GitHub](https://github.com/geoffjentry/twitteR)]
-- **streamR** [[CRAN](https://cran.r-project.org/web/packages/streamR)] [[GitHub](https://github.com/pablobarbera/streamR)] - package for [Streaming API](https://dev.twitter.com/docs/streaming-apis)
+
+### [Yummly](http://yummly.com/) - Cooking recipe platform
+- [API Documentation](https://developer.yummly.com)
+- **yummlyr** [[CRAN](https://cran.r-project.org/web/packages/yummlyr)] [[GitHub](https://github.com/RomanTsegelskyi/yummlyr)]

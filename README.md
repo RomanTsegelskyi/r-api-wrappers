@@ -2,6 +2,10 @@ R API Wrappers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 ===
 A curated list of [R](https://www.r-project.org/) API wrappers. Inspired by [List of Python API Wrappers](https://github.com/realpython/list-of-python-api-wrappers).
 
+### [Bitly](http://bitly.com/) -  URL shortener
+- [API Documentation](http://dev.bitly.com/get_started.html)
+- **RBitly** [[CRAN](https://cran.r-project.org/web/packages/RBitly/)] [[GitHub](https://github.com/dmpe/urlshorteneR)]
+
 ### [Facebook](http://facebook.com/) -  Social networking service
 - [API Documentation](https://developers.facebook.com/)
 - **Rfacebook** [[CRAN](https://cran.r-project.org/web/packages/Rfacebook)] [[GitHub](https://github.com/pablobarbera/Rfacebook)]

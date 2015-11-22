@@ -19,6 +19,10 @@ A curated list of [R](https://www.r-project.org/) API wrappers. Inspired by [Lis
 - [API Documentation](https://developers.google.com/gmail/api/?hl=en)
 - **gmailr** [[CRAN](https://cran.r-project.org/web/packages/gmailr/index.html)] [[GitHub](https://github.com/jimhester/gmailr)]
 
+### [Google Spreadsheet](https://docs.google.com/spreadsheet/) - Online spreadsheets
+- [API Documentation](https://developers.google.com/google-apps/spreadsheets/)
+- **googlesheets** [[CRAN](https://cran.r-project.org/web/packages/googlesheets)] [[GitHub](ehttps://github.com/jennybc/googlesheets)]
+
 ### [Slack](http://slack.com/) - Team Communication Platform
 - [API Documentation](https://api.slack.com/)
 - **slackr** [[CRAN](https://cran.r-project.org/web/packages/slackr)] [[GitHub](https://github.com/hrbrmstr/slackr)]

@@ -19,6 +19,10 @@ A curated list of [R](https://www.r-project.org/) API wrappers. Inspired by [Lis
 - [API Documentation](https://developers.google.com/gmail/api/?hl=en)
 - **gmailr** [[CRAN](https://cran.r-project.org/web/packages/gmailr/index.html)] [[GitHub](https://github.com/jimhester/gmailr)]
 
+### [Google Maps](https://maps.google.com/spreadsheet/) - Web mapping service
+- [API Documentation](https://developers.google.com/maps/)
+- **RgoogleMaps** [[CRAN](https://cran.r-project.org/web/packages/RgoogleMaps)]
+
 ### [Google Spreadsheet](https://docs.google.com/spreadsheet/) - Online spreadsheets
 - [API Documentation](https://developers.google.com/google-apps/spreadsheets/)
 - **googlesheets** [[CRAN](https://cran.r-project.org/web/packages/googlesheets)] [[GitHub](ehttps://github.com/jennybc/googlesheets)]

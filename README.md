@@ -6,6 +6,10 @@ A curated list of [R](https://www.r-project.org/) API wrappers. Inspired by [Lis
 - [API Documentation](http://dev.bitly.com/get_started.html)
 - **RBitly** [[CRAN](https://cran.r-project.org/web/packages/RBitly/)] [[GitHub](https://github.com/dmpe/urlshorteneR)]
 
+### [Dropbox](http://dropbox.com/) -  File Hosting Service
+- [API Documentation](https://www.dropbox.com/developers)
+- **rdrop2** [[CRAN](https://cran.r-project.org/web/packages/rdrop2/)] [[GitHub](https://github.com/karthik/rdrop2)]
+
 ### [Facebook](http://facebook.com/) -  Social networking service
 - [API Documentation](https://developers.facebook.com/)
 - **Rfacebook** [[CRAN](https://cran.r-project.org/web/packages/Rfacebook)] [[GitHub](https://github.com/pablobarbera/Rfacebook)]

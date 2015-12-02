@@ -28,7 +28,11 @@ A curated list of [R](https://www.r-project.org/) API wrappers. Inspired by [Lis
 - **RGA** [[CRAN](https://cran.r-project.org/web/packages/RGA)] [[GitHub](https://github.com/skardhamar/rga)]
 - **RGoogleAnalytics** [[CRAN](https://cran.r-project.org/web/packages/RGoogleAnalytics)] [[GitHub](https://github.com/Tatvic/RGoogleAnalytics)]
 
-### [Google Maps](https://maps.google.com/spreadsheet/) - Web mapping service
+### [Google Plus](https://maps.google.com/spreadsheet/) - Web mapping service
+- [API Documentation](https://developers.google.com/+/web/api/rest/)
+- **plusser** [[CRAN](https://cran.r-project.org/web/packages/plusser)]
+
+### [Google Maps](https://google.com/+) - Social networking service
 - [API Documentation](https://developers.google.com/maps/)
 - **RgoogleMaps** [[CRAN](https://cran.r-project.org/web/packages/RgoogleMaps)]
 

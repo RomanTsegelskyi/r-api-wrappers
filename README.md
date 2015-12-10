@@ -19,6 +19,10 @@ A curated list of [R](https://www.r-project.org/) API wrappers. Inspired by [Lis
 - **Rfacebook** [[CRAN](https://cran.r-project.org/web/packages/Rfacebook)] [[GitHub](https://github.com/pablobarbera/Rfacebook)]
 - **fbRads** [[GitHub](https://github.com/cardcorp/fbRads)] - package for [Marketing API](https://developers.facebook.com/docs/marketing-apis)
 
+### [Forecast](http://forecast.io/) -  Weather data and forecasting 
+- [API Documentation](https://developer.forecast.io/docs/v2)
+- **Rforecast** [[CRAN](https://cran.r-project.org/web/packages/Rforecast)] [[GitHub](https://github.com/hrbrmstr/Rforecastio)]
+
 ### [GitHub](http://github.com) - Online project hosting
 - [API Documentation](https://developer.github.com/v3/)
 - **rgithub** [[CRAN](https://cran.r-project.org/web/packages/rgithub)] [[GitHub](https://github.com/cscheid/rgithub)]

@@ -63,3 +63,7 @@ A curated list of [R](https://www.r-project.org/) API wrappers. Inspired by [Lis
 ### [Yummly](http://yummly.com/) - Cooking recipe platform
 - [API Documentation](https://developer.yummly.com)
 - **yummlyr** [[CRAN](https://cran.r-project.org/web/packages/yummlyr)] [[GitHub](https://github.com/RomanTsegelskyi/yummlyr)]
+
+### [Zendesk](http://zendesk.com/) - Customer service platform
+- [API Documentation](https://developer.zendesk.com/rest_api/docs/core/introduction)
+- **zendeskR** [[CRAN](https://cran.r-project.org/web/packages/zendeskR)] [[GitHub](https://github.com/tcash21/zendeskR)]

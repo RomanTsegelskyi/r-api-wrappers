@@ -60,6 +60,10 @@ A curated list of [R](https://www.r-project.org/) API wrappers. Inspired by [Lis
 - [API Documentation](https://dev.twitter.com/docs/twitter-libraries)
 - **twitteR** [[CRAN](https://cran.r-project.org/web/packages/twitteR)] [[GitHub](https://github.com/geoffjentry/twitteR)]
 
+### [Wikiedia](http://wikipedia.org/) - Wikipedia / Mediawiki
+- [API Documentation](https://www.mediawiki.org/wiki/API:Main_page)
+- **wikipediR** [[CRAN](https://cran.r-project.org/web/packages/WikipediR/index.html)] [[GitHub](https://github.com/Ironholds/WikipediR/)]
+
 ### [Yummly](http://yummly.com/) - Cooking recipe platform
 - [API Documentation](https://developer.yummly.com)
 - **yummlyr** [[CRAN](https://cran.r-project.org/web/packages/yummlyr)] [[GitHub](https://github.com/RomanTsegelskyi/yummlyr)]

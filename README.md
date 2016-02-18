@@ -48,6 +48,10 @@ A curated list of [R](https://www.r-project.org/) API wrappers. Inspired by [Lis
 - [API Documentation](https://developers.google.com/google-apps/spreadsheets/)
 - **googlesheets** [[CRAN](https://cran.r-project.org/web/packages/googlesheets)] [[GitHub](https://github.com/jennybc/googlesheets)]
 
+### [Mixpanel](https://www.mixpanel.com/) - Website event tracking
+- [API Documentation](https://mixpanel.com/help/reference/http)
+- **RMixpanel** [[CRAN](https://cran.r-project.org/web/packages/RMixpanel)] [[GitHub](https://github.com/7factory/RMixpanel)]
+
 ### [Slack](http://slack.com/) - Team Communication Platform
 - [API Documentation](https://api.slack.com/)
 - **slackr** [[CRAN](https://cran.r-project.org/web/packages/slackr)] [[GitHub](https://github.com/hrbrmstr/slackr)]

@@ -6,6 +6,10 @@ A curated list of [R](https://www.r-project.org/) API wrappers. Inspired by [Lis
 - [API Documentation](http://dev.bitly.com/get_started.html)
 - **RBitly** [[CRAN](https://cran.r-project.org/web/packages/RBitly/)] [[GitHub](https://github.com/dmpe/urlshorteneR)]
 
+### [Bureau of Labor Statistics](http://bls.gov/) -  Labor Stats from US Gov
+- [API Documentation](http://www.bls.gov/developers/)
+- **RBitly** [[CRAN](https://cran.r-project.org/web/packages/blsAPI/)] [[GitHub](https://github.com/mikeasilva/blsAPI)]
+
 ### [Box](http://box.com/) -  File Hosting Service
 - [API Documentation](http://developers.box.com/)
 - **boxr** [[CRAN](https://cran.r-project.org/web/packages/boxr/)]

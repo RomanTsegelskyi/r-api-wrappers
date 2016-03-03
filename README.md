@@ -8,7 +8,7 @@ A curated list of [R](https://www.r-project.org/) API wrappers. Inspired by [Lis
 
 ### [Box](http://box.com/) -  File Hosting Service
 - [API Documentation](http://developers.box.com/)
-- **boxr** [[CRAN](https://cran.r-project.org/web/packages/boxr/)]
+- **boxr** [[CRAN](https://cran.r-project.org/web/packages/boxr/)] [[GitHub](https://github.com/brendan-r/boxr)]
 
 ### [Dropbox](http://dropbox.com/) -  File Hosting Service
 - [API Documentation](https://www.dropbox.com/developers)

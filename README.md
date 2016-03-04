@@ -6,6 +6,10 @@ A curated list of [R](https://www.r-project.org/) API wrappers. Inspired by [Lis
 - [API Documentation](http://dev.bitly.com/get_started.html)
 - **RBitly** [[CRAN](https://cran.r-project.org/web/packages/RBitly/)] [[GitHub](https://github.com/dmpe/urlshorteneR)]
 
+### [Bureau of Labor Statistics](http://bls.gov/) -  Labor Stats from US Gov
+- [API Documentation](http://www.bls.gov/developers/)
+- **RBitly** [[CRAN](https://cran.r-project.org/web/packages/blsAPI/)] [[GitHub](https://github.com/mikeasilva/blsAPI)]
+
 ### [Box](http://box.com/) -  File Hosting Service
 - [API Documentation](http://developers.box.com/)
 - **boxr** [[CRAN](https://cran.r-project.org/web/packages/boxr/)] [[GitHub](https://github.com/brendan-r/boxr)]
@@ -48,6 +52,10 @@ A curated list of [R](https://www.r-project.org/) API wrappers. Inspired by [Lis
 - [API Documentation](https://developers.google.com/google-apps/spreadsheets/)
 - **googlesheets** [[CRAN](https://cran.r-project.org/web/packages/googlesheets)] [[GitHub](https://github.com/jennybc/googlesheets)]
 
+### [Mixpanel](https://www.mixpanel.com/) - Website event tracking
+- [API Documentation](https://mixpanel.com/help/reference/http)
+- **RMixpanel** [[CRAN](https://cran.r-project.org/web/packages/RMixpanel)] [[GitHub](https://github.com/7factory/RMixpanel)]
+
 ### [Slack](http://slack.com/) - Team Communication Platform
 - [API Documentation](https://api.slack.com/)
 - **slackr** [[CRAN](https://cran.r-project.org/web/packages/slackr)] [[GitHub](https://github.com/hrbrmstr/slackr)]
@@ -56,6 +64,14 @@ A curated list of [R](https://www.r-project.org/) API wrappers. Inspired by [Lis
 - [API Documentation](https://dev.twitter.com/docs/twitter-libraries)
 - **twitteR** [[CRAN](https://cran.r-project.org/web/packages/twitteR)] [[GitHub](https://github.com/geoffjentry/twitteR)]
 
+### [Wikiedia](http://wikipedia.org/) - Wikipedia / Mediawiki
+- [API Documentation](https://www.mediawiki.org/wiki/API:Main_page)
+- **wikipediR** [[CRAN](https://cran.r-project.org/web/packages/WikipediR/index.html)] [[GitHub](https://github.com/Ironholds/WikipediR/)]
+
 ### [Yummly](http://yummly.com/) - Cooking recipe platform
 - [API Documentation](https://developer.yummly.com)
 - **yummlyr** [[CRAN](https://cran.r-project.org/web/packages/yummlyr)] [[GitHub](https://github.com/RomanTsegelskyi/yummlyr)]
+
+### [Zendesk](http://zendesk.com/) - Customer service platform
+- [API Documentation](https://developer.zendesk.com/rest_api/docs/core/introduction)
+- **zendeskR** [[CRAN](https://cran.r-project.org/web/packages/zendeskR)] [[GitHub](https://github.com/tcash21/zendeskR)]

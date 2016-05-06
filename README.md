@@ -8,7 +8,7 @@ A curated list of [R](https://www.r-project.org/) API wrappers. Inspired by [Lis
 
 ### [Bureau of Labor Statistics](http://bls.gov/) -  Labor Stats from US Gov
 - [API Documentation](http://www.bls.gov/developers/)
-- **RBitly** [[CRAN](https://cran.r-project.org/web/packages/blsAPI/)] [[GitHub](https://github.com/mikeasilva/blsAPI)]
+- **blsAPI** [[CRAN](https://cran.r-project.org/web/packages/blsAPI/)] [[GitHub](https://github.com/mikeasilva/blsAPI)]
 
 ### [Box](http://box.com/) -  File Hosting Service
 - [API Documentation](http://developers.box.com/)

@@ -64,6 +64,10 @@ A curated list of [R](https://www.r-project.org/) API wrappers. Inspired by [Lis
 - [API Documentation](https://dev.twitter.com/docs/twitter-libraries)
 - **twitteR** [[CRAN](https://cran.r-project.org/web/packages/twitteR)] [[GitHub](https://github.com/geoffjentry/twitteR)]
 
+### [WHO](http://www.who.int/gho/en/) - Global Health Observatory (GHO) data
+- [API Documentation](http://apps.who.int/gho/data/node.resources.api)
+- **WHO** [[CRAN](https://cran.r-project.org/web/packages/WHO)] [[Github](https://github.com/expersso/WHO)]
+
 ### [Wikiedia](http://wikipedia.org/) - Wikipedia / Mediawiki
 - [API Documentation](https://www.mediawiki.org/wiki/API:Main_page)
 - **wikipediR** [[CRAN](https://cran.r-project.org/web/packages/WikipediR/index.html)] [[GitHub](https://github.com/Ironholds/WikipediR/)]
